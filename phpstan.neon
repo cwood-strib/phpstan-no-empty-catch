@@ -1,2 +1,2 @@
 rules:
-	- App\CatchRule
+	- StarTribune\PHPStan\EmptyCatchRule

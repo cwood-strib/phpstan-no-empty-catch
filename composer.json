@@ -1,6 +1,6 @@
 {
     "autoload": {
-        "psr-4": {"App\\": "./"}
+  	"psr-4": {"StarTribune\\PHPStan\\": "./src"}
     },
     "require-dev": {
         "phpstan/phpstan": "^1.5"
