@@ -1,6 +1,6 @@
 #
 
-PHPStan rule proof of concept to detect empty catch blocks in linting.
+PHPStan rule proof of concept to detect empty catch blocks in linting
 
 Run:
 ```
