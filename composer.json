@@ -1,4 +1,5 @@
 {
+    "name": "cwood-strib/phpstan-no-empty-catch",
     "autoload": {
   	"psr-4": {"StarTribune\\PHPStan\\": "./src"}
     },
