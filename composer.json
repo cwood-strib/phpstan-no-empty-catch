@@ -1,5 +1,19 @@
 {
     "name": "cwood-strib/phpstan-no-empty-catch",
+    "type": "package",
+    "package": {
+      "name": "cwood-strib/phpstan-no-empty-catch",
+      "version": "0.0.1",
+      "source": {
+        "type" : "git",
+        "url" : "git://github.com/cwood-strib/phpstan-no-empty-catch.git",
+        "reference" : "main"
+      },
+      "dist": {
+        "url": "https://github.com/cwood-strib/phpstan-no-empty-catch.git/archive/master.zip",
+        "type": "zip"
+      }
+    },
     "autoload": {
   	"psr-4": {"StarTribune\\PHPStan\\": "./src"}
     },
